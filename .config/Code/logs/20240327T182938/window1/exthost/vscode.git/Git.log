@@ -1,0 +1,85 @@
+2024-03-27 18:29:52.962 [info] Log level: Info
+2024-03-27 18:29:52.963 [info] Validating found git in: "git"
+2024-03-27 18:29:52.963 [info] Using git "2.39.2" from "git"
+2024-03-27 18:29:52.963 [info] > git rev-parse --show-toplevel [624ms]
+2024-03-27 18:29:52.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:52.963 [info] > git rev-parse --show-toplevel [22ms]
+2024-03-27 18:29:52.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:52.983 [info] > git rev-parse --show-toplevel [25ms]
+2024-03-27 18:29:52.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.045 [info] > git rev-parse --show-toplevel [15ms]
+2024-03-27 18:29:53.045 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.112 [info] > git rev-parse --show-toplevel [10ms]
+2024-03-27 18:29:53.112 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.171 [info] > git rev-parse --show-toplevel [14ms]
+2024-03-27 18:29:53.172 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.237 [info] > git rev-parse --show-toplevel [16ms]
+2024-03-27 18:29:53.237 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.351 [info] > git rev-parse --show-toplevel [29ms]
+2024-03-27 18:29:53.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:29:53.424 [info] > git rev-parse --show-toplevel [12ms]
+2024-03-27 18:29:53.551 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-03-27 18:29:53.636 [info] Open repository: /home/onalennaleso99/my project
+2024-03-27 18:29:53.726 [info] > git config --get commit.template [24ms]
+2024-03-27 18:29:53.787 [info] No remotes found in the git config file.
+2024-03-27 18:29:53.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-03-27 18:29:53.824 [warning] No such branch: master.
+2024-03-27 18:29:53.881 [info] > git status -z -uall [12ms]
+2024-03-27 18:29:54.126 [info] > git config --get commit.template [154ms]
+2024-03-27 18:29:54.301 [info] No remotes found in the git config file.
+2024-03-27 18:29:54.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-03-27 18:29:54.327 [warning] No such branch: master.
+2024-03-27 18:29:54.434 [info] > git status -z -uall [27ms]
+2024-03-27 18:30:10.097 [info] > git rev-parse --show-toplevel [83ms]
+2024-03-27 18:30:10.098 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:31:15.851 [info] > git check-ignore -v -z --stdin [11ms]
+2024-03-27 18:31:16.037 [info] > git show --textconv :ourcode.html [78ms]
+2024-03-27 18:31:16.037 [info] > git ls-files --stage -- /home/onalennaleso99/my project/ourcode.html [44ms]
+2024-03-27 18:31:56.174 [info] No remotes found in the git config file.
+2024-03-27 18:31:56.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-03-27 18:31:56.178 [warning] No such branch: master.
+2024-03-27 18:31:56.179 [info] > git config --get commit.template [53ms]
+2024-03-27 18:31:56.210 [info] > git status -z -uall [9ms]
+2024-03-27 18:32:13.987 [info] Log level: Info
+2024-03-27 18:32:13.987 [info] Validating found git in: "git"
+2024-03-27 18:32:13.987 [info] Using git "2.39.2" from "git"
+2024-03-27 18:32:14.010 [info] > git rev-parse --show-toplevel [17ms]
+2024-03-27 18:32:14.010 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:14.246 [info] > git rev-parse --show-toplevel [204ms]
+2024-03-27 18:32:14.316 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2024-03-27 18:32:14.390 [info] Open repository: /home/onalennaleso99/my project
+2024-03-27 18:32:15.001 [info] > git rev-parse --show-toplevel [422ms]
+2024-03-27 18:32:15.001 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:15.002 [info] > git config --get commit.template [466ms]
+2024-03-27 18:32:15.139 [info] No remotes found in the git config file.
+2024-03-27 18:32:15.145 [info] > git rev-parse --show-toplevel [78ms]
+2024-03-27 18:32:15.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:15.195 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [65ms]
+2024-03-27 18:32:15.199 [warning] No such branch: master.
+2024-03-27 18:32:15.505 [info] > git status -z -uall [260ms]
+2024-03-27 18:32:15.534 [info] > git rev-parse --show-toplevel [346ms]
+2024-03-27 18:32:15.534 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:15.704 [info] > git check-ignore -v -z --stdin [32ms]
+2024-03-27 18:32:15.724 [info] > git rev-parse --show-toplevel [114ms]
+2024-03-27 18:32:15.725 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:15.730 [info] > git config --get commit.template [135ms]
+2024-03-27 18:32:15.878 [info] No remotes found in the git config file.
+2024-03-27 18:32:15.893 [info] > git rev-parse --show-toplevel [51ms]
+2024-03-27 18:32:15.894 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:15.953 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [75ms]
+2024-03-27 18:32:15.954 [warning] No such branch: master.
+2024-03-27 18:32:16.012 [info] > git rev-parse --show-toplevel [69ms]
+2024-03-27 18:32:16.012 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:16.242 [info] > git status -z -uall [236ms]
+2024-03-27 18:32:16.243 [info] > git show --textconv :ourcode.html [134ms]
+2024-03-27 18:32:16.243 [info] > git ls-files --stage -- /home/onalennaleso99/my project/ourcode.html [87ms]
+2024-03-27 18:32:45.437 [info] > git rev-parse --show-toplevel [9ms]
+2024-03-27 18:32:45.437 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-27 18:32:46.179 [info] > git check-ignore -v -z --stdin [23ms]
+2024-03-27 18:32:52.924 [info] > git config --get commit.template [10ms]
+2024-03-27 18:32:52.971 [info] No remotes found in the git config file.
+2024-03-27 18:32:52.976 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-03-27 18:32:52.976 [warning] No such branch: master.
+2024-03-27 18:32:53.025 [info] > git status -z -uall [12ms]
+2024-03-27 18:35:57.435 [info] > git rev-parse --show-toplevel [5ms]
+2024-03-27 18:35:57.436 [info] fatal: not a git repository (or any of the parent directories): .git

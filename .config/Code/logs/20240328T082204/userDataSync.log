@@ -1,0 +1,581 @@
+2024-03-28 08:22:10.018 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-03-28 08:22:10.018 [info] Auto Sync is enabled.
+2024-03-28 08:22:10.018 [info] Auto Sync: Suspended until auth token is available.
+2024-03-28 08:22:13.372 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/extensions
+2024-03-28 08:22:13.462 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/globalState
+2024-03-28 08:22:13.644 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/keybindings
+2024-03-28 08:22:13.779 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/profiles
+2024-03-28 08:22:13.910 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/settings
+2024-03-28 08:22:13.955 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/snippets
+2024-03-28 08:22:14.072 [info] Deleting non existing profile from backup /home/onalennaleso99/.config/Code/User/sync/tasks
+2024-03-28 08:22:15.027 [info] Auto Sync: Triggered by Interval
+2024-03-28 08:22:15.038 [info] Sync started.
+2024-03-28 08:22:15.958 [info] Settings: Last sync resource does not exist locally.
+2024-03-28 08:22:16.372 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:22:16.407 [info] Keybindings: Last sync resource does not exist locally.
+2024-03-28 08:22:16.606 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:22:16.623 [info] Snippets: Last sync resource does not exist locally.
+2024-03-28 08:22:16.790 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:22:16.803 [info] Tasks: Last sync resource does not exist locally.
+2024-03-28 08:22:16.964 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:22:16.978 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:22:16.978 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:22:17.505 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:22:17.505 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:22:17.511 [info] Extensions: Last sync resource does not exist locally.
+2024-03-28 08:22:18.062 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:22:18.071 [info] Profiles: Last sync resource does not exist locally.
+2024-03-28 08:22:18.335 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:22:18.346 [info] Sync done. Took 3338ms
+2024-03-28 08:23:02.562 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:23:02.564 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:23:04.569 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:23:04.572 [info] Sync started.
+2024-03-28 08:23:04.776 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:23:04.796 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:23:04.827 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:23:04.856 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:23:04.869 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:23:04.871 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:23:05.427 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:23:05.428 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:23:05.814 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:23:05.819 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:23:05.826 [info] Sync done. Took 1259ms
+2024-03-28 08:23:17.303 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:23:17.306 [info] Sync started.
+2024-03-28 08:23:17.492 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:23:17.531 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:23:17.561 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:23:17.579 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:23:17.588 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:23:17.589 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:23:18.121 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:23:18.122 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:23:18.496 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:23:18.502 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:23:18.506 [info] Sync done. Took 1211ms
+2024-03-28 08:23:33.503 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:23:33.505 [info] Sync started.
+2024-03-28 08:23:33.677 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:23:33.700 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:23:33.732 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:23:33.750 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:23:33.761 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:23:33.763 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:23:34.249 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:23:34.252 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:23:34.634 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:23:34.640 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:23:34.651 [info] Sync done. Took 1150ms
+2024-03-28 08:23:57.874 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:23:57.875 [info] Sync started.
+2024-03-28 08:23:58.065 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:23:58.094 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:23:58.123 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:23:58.151 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:23:58.166 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:23:58.167 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:23:58.766 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:23:58.768 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:23:59.104 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:23:59.110 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:23:59.115 [info] Sync done. Took 1241ms
+2024-03-28 08:24:41.673 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:24:41.675 [info] Sync started.
+2024-03-28 08:24:41.911 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:24:41.941 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:24:41.981 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:24:42.004 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:24:42.016 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:24:42.017 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:24:42.625 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:24:42.627 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:24:42.939 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:24:42.945 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:24:42.950 [info] Sync done. Took 1283ms
+2024-03-28 08:27:08.468 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:27:08.471 [info] Sync started.
+2024-03-28 08:27:09.141 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:27:09.164 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:27:09.200 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:27:09.224 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:27:09.232 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:27:09.235 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:27:09.847 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:27:09.850 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:27:10.212 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:27:10.218 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:27:10.232 [info] Sync done. Took 1779ms
+2024-03-28 08:29:15.396 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:29:15.401 [info] Sync started.
+2024-03-28 08:29:15.663 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:29:15.689 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:29:15.717 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:29:15.748 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:29:15.761 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:29:15.763 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:29:16.260 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:29:16.263 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:29:16.715 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:29:16.722 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:29:16.729 [info] Sync done. Took 1348ms
+2024-03-28 08:29:28.663 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:29:28.665 [info] Sync started.
+2024-03-28 08:29:28.838 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:29:28.862 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:29:28.878 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:29:28.895 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:29:28.907 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:29:28.909 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:29:29.500 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:29:29.502 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:29:29.796 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:29:29.800 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:29:29.808 [info] Sync done. Took 1150ms
+2024-03-28 08:32:15.444 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:32:15.450 [info] Sync started.
+2024-03-28 08:32:16.126 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:32:16.191 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:32:16.228 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:32:16.260 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:32:16.286 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:32:16.286 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:32:16.884 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:32:16.885 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:32:17.408 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:32:17.430 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:32:17.452 [info] Sync done. Took 2001ms
+2024-03-28 08:33:40.188 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:33:40.189 [info] Sync started.
+2024-03-28 08:33:40.413 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:33:40.442 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:33:40.473 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:33:40.496 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:33:40.504 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:33:40.506 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:33:41.090 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:33:41.091 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:33:41.373 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:33:41.381 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:33:41.387 [info] Sync done. Took 1203ms
+2024-03-28 08:34:33.123 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:34:33.125 [info] Sync started.
+2024-03-28 08:34:33.369 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:34:33.401 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:34:33.440 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:34:33.460 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:34:33.471 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:34:33.473 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:34:34.046 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:34:34.049 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:34:34.439 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:34:34.444 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:34:34.450 [info] Sync done. Took 1331ms
+2024-03-28 08:34:53.321 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:34:53.324 [info] Sync started.
+2024-03-28 08:34:53.530 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:34:53.558 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:34:53.586 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:34:53.612 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:34:53.625 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:34:53.626 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:34:54.229 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:34:54.233 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:34:54.647 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:34:54.652 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:34:54.659 [info] Sync done. Took 1340ms
+2024-03-28 08:35:08.389 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:35:08.399 [info] Sync started.
+2024-03-28 08:35:08.619 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:35:08.661 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:35:08.707 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:35:08.734 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:35:08.746 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:35:08.747 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:35:09.345 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:35:09.356 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:35:09.880 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:35:09.908 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:35:09.914 [info] Sync done. Took 1536ms
+2024-03-28 08:35:44.731 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:35:44.737 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:35:46.729 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:35:46.732 [info] Sync started.
+2024-03-28 08:35:46.953 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:35:46.990 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:35:47.020 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:35:47.044 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:35:47.053 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:35:47.056 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:35:47.496 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:35:47.497 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:35:47.724 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:35:47.730 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:35:47.764 [info] Sync done. Took 1037ms
+2024-03-28 08:39:32.231 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:39:32.241 [info] Sync started.
+2024-03-28 08:39:32.999 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:39:33.026 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:39:33.065 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:39:33.085 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:39:33.093 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:39:33.095 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:39:33.705 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:39:33.728 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:39:34.089 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:39:34.107 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:39:34.115 [info] Sync done. Took 1910ms
+2024-03-28 08:41:11.216 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:41:11.218 [info] Sync started.
+2024-03-28 08:41:11.448 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:41:11.485 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:41:11.517 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:41:11.541 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:41:11.560 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:41:11.562 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:41:12.045 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:41:12.048 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:41:12.367 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:41:12.372 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:41:12.376 [info] Sync done. Took 1167ms
+2024-03-28 08:41:27.301 [info] Auto Sync: Triggered by Activity
+2024-03-28 08:41:27.303 [info] Sync started.
+2024-03-28 08:41:27.479 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:41:27.511 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:41:27.547 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:41:27.574 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:41:27.586 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:41:27.586 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:41:28.187 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:41:28.188 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:41:28.573 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:41:28.586 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:41:28.592 [info] Sync done. Took 1290ms
+2024-03-28 08:46:28.637 [info] Auto Sync: Triggered by Interval
+2024-03-28 08:46:28.640 [info] Sync started.
+2024-03-28 08:46:29.546 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:46:29.612 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:46:29.634 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:46:29.661 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:46:29.672 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:46:29.673 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:46:30.364 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:46:30.365 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:46:30.634 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:46:30.640 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:46:30.648 [info] Sync done. Took 2028ms
+2024-03-28 08:51:30.690 [info] Auto Sync: Triggered by Interval
+2024-03-28 08:51:30.697 [info] Sync started.
+2024-03-28 08:51:31.346 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:51:31.400 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:51:31.441 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:51:31.486 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:51:31.504 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:51:31.506 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:51:32.160 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:51:32.164 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:51:32.472 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:51:32.477 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:51:32.483 [info] Sync done. Took 1822ms
+2024-03-28 08:56:32.523 [info] Auto Sync: Triggered by Interval
+2024-03-28 08:56:32.532 [info] Sync started.
+2024-03-28 08:56:33.210 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 08:56:33.253 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 08:56:33.288 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 08:56:33.320 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 08:56:33.332 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 08:56:33.335 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 08:56:33.853 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 08:56:33.855 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 08:56:34.314 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 08:56:34.327 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 08:56:34.336 [info] Sync done. Took 1827ms
+2024-03-28 09:01:34.399 [info] Auto Sync: Triggered by Interval
+2024-03-28 09:01:34.402 [info] Sync started.
+2024-03-28 09:01:35.162 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:01:35.199 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:01:35.224 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:01:35.244 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:01:35.257 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:01:35.257 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:01:35.804 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:01:35.805 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:01:36.229 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:01:36.236 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:01:36.242 [info] Sync done. Took 1875ms
+2024-03-28 09:04:10.044 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:04:10.062 [info] Sync started.
+2024-03-28 09:04:10.795 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:04:10.877 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:04:10.904 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:04:10.926 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:04:10.932 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:04:10.933 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:04:11.584 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:04:11.586 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:04:11.821 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:04:11.830 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:04:11.835 [info] Sync done. Took 1825ms
+2024-03-28 09:09:11.843 [info] Auto Sync: Triggered by Interval
+2024-03-28 09:09:11.846 [info] Sync started.
+2024-03-28 09:09:12.523 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:09:12.589 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:09:12.630 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:09:12.660 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:09:12.672 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:09:12.675 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:09:13.349 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:09:13.350 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:09:13.655 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:09:13.661 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:09:13.674 [info] Sync done. Took 1834ms
+2024-03-28 09:14:13.680 [info] Auto Sync: Triggered by Interval
+2024-03-28 09:14:13.681 [info] Sync started.
+2024-03-28 09:14:14.475 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:14:14.516 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:14:14.552 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:14:14.587 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:14:14.599 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:14:14.599 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:14:15.255 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:14:15.258 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:14:15.610 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:14:15.616 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:14:15.625 [info] Sync done. Took 1947ms
+2024-03-28 09:19:15.648 [info] Auto Sync: Triggered by Interval
+2024-03-28 09:19:15.658 [info] Sync started.
+2024-03-28 09:19:16.433 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:19:16.463 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:19:16.501 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:19:16.539 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:19:16.551 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:19:16.554 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:19:17.239 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:19:17.241 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:19:17.602 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:19:17.608 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:19:17.614 [info] Sync done. Took 1982ms
+2024-03-28 09:23:38.729 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:23:38.736 [info] Sync started.
+2024-03-28 09:23:39.409 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:23:39.444 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:23:39.485 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:23:39.509 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:23:39.528 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:23:39.529 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:23:40.061 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:23:40.063 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:23:40.406 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:23:40.410 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:23:40.415 [info] Sync done. Took 1712ms
+2024-03-28 09:25:18.432 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:25:18.433 [info] Sync started.
+2024-03-28 09:25:18.754 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:25:18.804 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:25:18.866 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:25:18.906 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:25:18.927 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:25:18.928 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:25:19.473 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:25:19.473 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:25:19.770 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:25:19.775 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:25:19.779 [info] Sync done. Took 1369ms
+2024-03-28 09:26:51.531 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:26:51.532 [info] Sync started.
+2024-03-28 09:26:51.795 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:26:51.838 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:26:51.868 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:26:51.894 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:26:51.905 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:26:51.907 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:26:52.384 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:26:52.386 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:26:52.736 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:26:52.746 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:26:52.755 [info] Sync done. Took 1226ms
+2024-03-28 09:27:17.301 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:27:17.303 [info] Sync started.
+2024-03-28 09:27:17.530 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:27:17.575 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:27:17.610 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:27:17.629 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:27:17.636 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:27:17.636 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:27:18.131 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:27:18.144 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:27:18.660 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:27:18.661 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:27:19.789 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:27:20.563 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:27:21.394 [info] Sync done. Took 4076ms
+2024-03-28 09:27:21.400 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:27:21.403 [info] Sync started.
+2024-03-28 09:27:23.055 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:27:23.404 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:27:23.644 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:27:23.765 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:27:23.770 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:27:23.771 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:27:24.854 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:27:24.855 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:27:25.103 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:27:25.148 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:27:25.196 [info] Sync done. Took 3806ms
+2024-03-28 09:28:04.147 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:28:04.162 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:28:07.816 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:28:07.817 [info] Sync started.
+2024-03-28 09:28:08.065 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:28:08.107 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:28:08.167 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:28:08.189 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:28:08.198 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:28:08.200 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:28:08.708 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:28:08.710 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:28:09.049 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:28:09.054 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:28:09.058 [info] Sync done. Took 1260ms
+2024-03-28 09:28:33.409 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:28:33.420 [info] Sync started.
+2024-03-28 09:28:33.956 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:28:34.053 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:28:34.130 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:28:34.189 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:28:34.203 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:28:34.205 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:28:34.680 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:28:34.683 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:28:35.368 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:28:35.391 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:28:35.401 [info] Sync done. Took 2043ms
+2024-03-28 09:29:00.003 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:29:00.004 [info] Sync started.
+2024-03-28 09:29:00.170 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:29:00.205 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:29:00.240 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:29:00.259 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:29:00.270 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:29:00.271 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:29:00.938 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:29:00.940 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:29:01.292 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:29:01.300 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:29:01.305 [info] Sync done. Took 1306ms
+2024-03-28 09:29:58.919 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:29:58.939 [info] Sync started.
+2024-03-28 09:29:59.206 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:29:59.246 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:29:59.266 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:29:59.288 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:29:59.303 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:29:59.304 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:29:59.860 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:29:59.862 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:30:00.193 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:30:00.201 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:30:00.208 [info] Sync done. Took 1319ms
+2024-03-28 09:30:21.026 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:30:21.027 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:30:23.033 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:30:23.035 [info] Sync started.
+2024-03-28 09:30:23.359 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:30:23.404 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:30:23.441 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:30:23.468 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:30:23.484 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:30:23.487 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:30:24.111 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:30:24.112 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:30:24.463 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:30:24.469 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:30:24.474 [info] Sync done. Took 1444ms
+2024-03-28 09:31:12.204 [info] Auto Sync: Triggered by Activity
+2024-03-28 09:31:12.219 [info] Sync started.
+2024-03-28 09:31:12.684 [info] Settings: No changes found during synchronizing settings.
+2024-03-28 09:31:12.710 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-03-28 09:31:12.730 [info] Snippets: No changes found during synchronizing snippets.
+2024-03-28 09:31:12.763 [info] Tasks: No changes found during synchronizing tasks.
+2024-03-28 09:31:12.771 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-03-28 09:31:12.774 [info] GlobalState: Last sync data state does not exist.
+2024-03-28 09:31:13.361 [error] Error: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+    at v.writeFile (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:17305)
+    at async a.eb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:16362)
+2024-03-28 09:31:13.365 [error] globalState: Unable to write file '/home/onalennaleso99/.config/Code/User/sync/globalState/preview/globalState.json' (Unknown (FileSystemError): Error: EFAULT: bad address in system call argument, write)
+2024-03-28 09:31:13.628 [info] Extensions: No changes found during synchronizing extensions.
+2024-03-28 09:31:13.633 [info] Profiles: No changes found during synchronizing profiles.
+2024-03-28 09:31:13.644 [info] Sync done. Took 1609ms

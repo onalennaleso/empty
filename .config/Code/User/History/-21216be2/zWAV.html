@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Theme</title>
+    <style>
+        button {
+            margin: 20px;
+            font-size: 30px;
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <button>
+        Dark theme
+    </button>
+
+    <script>
+        function changeTheme() {
+            let body = document.querySelector("body");
+
+            body.classList.add("dark");
+        }
+
+        let themeButton = document.querySelector("button");
+
+        themeButton.addEventListener("click", changeTheme);
+    </script>
+
+</body>
+
+</html>
